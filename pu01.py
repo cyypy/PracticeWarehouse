@@ -1,4 +1,5 @@
 
 
 print("hello,pthon")
-print("xiao,cai,nihao")
+print("xiao,cai")
+print("how are you")
